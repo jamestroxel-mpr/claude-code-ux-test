@@ -1,0 +1,387 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1024" viewBox="0 0 1440 1024">
+<rect id="Frame background" width="1440" height="1024" fill="#F4F5F7"/>
+<g id="Top bar">
+<rect x="0" y="0" width="1440" height="64" fill="#FFFFFF"/>
+<line x1="0" y1="64" x2="1440" y2="64" stroke="#D9DCE1" stroke-width="1"/>
+<rect x="24" y="18" width="28" height="28" fill="#ECEEF1" rx="6" stroke="#D9DCE1" stroke-width="1"/>
+<line x1="24" y1="18" x2="52" y2="46" stroke="#D9DCE1" stroke-width="1"/>
+<line x1="52" y1="18" x2="24" y2="46" stroke="#D9DCE1" stroke-width="1"/>
+<text x="66" y="38" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#1F2328" font-weight="700">Respondent Journey</text>
+<g id="Tab / Aggregate journey">
+<text x="435.0" y="38" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#1F2328" font-weight="600" text-anchor="middle">Aggregate journey</text>
+<rect x="360" y="61" width="150" height="3" fill="#2F6FEB"/>
+</g>
+<g id="Tab / Individual respondents">
+<text x="618.0" y="38" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#6B7280" font-weight="500" text-anchor="middle">Individual respondents</text>
+</g>
+<text x="1172" y="37" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="end">Data refreshed 14 Apr 2026, 08:00</text>
+<g id="Button / Export">
+<rect x="1188" y="14" width="92" height="36" fill="#FFFFFF" rx="6" stroke="#D9DCE1" stroke-width="1"/>
+<text x="1234.0" y="36.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#1F2328" font-weight="500" text-anchor="middle">Export</text>
+</g>
+<circle cx="1400" cy="32" r="16" fill="#ECEEF1" stroke="#D9DCE1" stroke-width="1"/>
+<text x="1400" y="36.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6B7280" font-weight="600" text-anchor="middle">AB</text>
+</g>
+<g id="Filter sidebar">
+<rect x="0" y="65" width="280" height="959" fill="#FFFFFF"/>
+<line x1="280" y1="65" x2="280" y2="1024" stroke="#D9DCE1" stroke-width="1"/>
+<text x="24" y="104" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#1F2328" font-weight="700">Filters</text>
+<text x="256" y="104" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#2F6FEB" font-weight="500" text-anchor="end">Reset all</text>
+<text x="24" y="126" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6B7280">Applies to every chart and table</text>
+<g id="Filter / Age group">
+<text x="24" y="160" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280" font-weight="600">Age group</text>
+<g id="Checkbox / 18–24">
+<rect x="24" y="172" width="16" height="16" fill="#FFFFFF" rx="3" stroke="#D9DCE1" stroke-width="1.5"/>
+<text x="48" y="184.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#1F2328">18–24</text>
+</g>
+<g id="Checkbox / 25–34">
+<rect x="144" y="172" width="16" height="16" fill="#2F6FEB" rx="3"/>
+<path d="M148 180 L151 183 L156 177" stroke="#FFFFFF" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="168" y="184.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#1F2328">25–34</text>
+</g>
+<g id="Checkbox / 35–44">
+<rect x="24" y="200" width="16" height="16" fill="#2F6FEB" rx="3"/>
+<path d="M28 208 L31 211 L36 205" stroke="#FFFFFF" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="48" y="212.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#1F2328">35–44</text>
+</g>
+<g id="Checkbox / 45–54">
+<rect x="144" y="200" width="16" height="16" fill="#FFFFFF" rx="3" stroke="#D9DCE1" stroke-width="1.5"/>
+<text x="168" y="212.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#1F2328">45–54</text>
+</g>
+<g id="Checkbox / 55–64">
+<rect x="24" y="228" width="16" height="16" fill="#FFFFFF" rx="3" stroke="#D9DCE1" stroke-width="1.5"/>
+<text x="48" y="240.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#1F2328">55–64</text>
+</g>
+<g id="Checkbox / 65+">
+<rect x="144" y="228" width="16" height="16" fill="#FFFFFF" rx="3" stroke="#D9DCE1" stroke-width="1.5"/>
+<text x="168" y="240.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#1F2328">65+</text>
+</g>
+</g>
+<g id="Filter / Gender">
+<text x="24" y="272" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280" font-weight="600">Gender</text>
+<g id="Dropdown / Gender">
+<rect x="24" y="282" width="232" height="36" fill="#FFFFFF" rx="6" stroke="#D9DCE1" stroke-width="1"/>
+<text x="36" y="304.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#1F2328">All genders</text>
+<path d="M236 298.0 L240 302.0 L244 298.0" stroke="#6B7280" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="Filter / Race / ethnicity">
+<text x="24" y="346" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280" font-weight="600">Race / ethnicity</text>
+<g id="Dropdown / Race / ethnicity">
+<rect x="24" y="356" width="232" height="36" fill="#FFFFFF" rx="6" stroke="#D9DCE1" stroke-width="1"/>
+<text x="36" y="378.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#1F2328">All (7 of 7)</text>
+<path d="M236 372.0 L240 376.0 L244 372.0" stroke="#6B7280" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="Filter / Region">
+<text x="24" y="420" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280" font-weight="600">Region</text>
+<g id="Dropdown / Region">
+<rect x="24" y="430" width="232" height="36" fill="#FFFFFF" rx="6" stroke="#D9DCE1" stroke-width="1"/>
+<text x="36" y="452.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#1F2328">Northeast, South</text>
+<path d="M236 446.0 L240 450.0 L244 446.0" stroke="#6B7280" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="Filter / Education">
+<text x="24" y="494" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280" font-weight="600">Education</text>
+<g id="Dropdown / Education">
+<rect x="24" y="504" width="232" height="36" fill="#FFFFFF" rx="6" stroke="#D9DCE1" stroke-width="1"/>
+<text x="36" y="526.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#1F2328">All levels</text>
+<path d="M236 520.0 L240 524.0 L244 520.0" stroke="#6B7280" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="Filter / Household income">
+<text x="24" y="568" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280" font-weight="600">Household income</text>
+<rect x="24" y="590" width="232" height="4" fill="#ECEEF1" rx="2"/>
+<rect x="64" y="590" width="150" height="4" fill="#2F6FEB" rx="2"/>
+<circle cx="64" cy="592" r="8" fill="#FFFFFF" stroke="#2F6FEB" stroke-width="2"/>
+<circle cx="214" cy="592" r="8" fill="#FFFFFF" stroke="#2F6FEB" stroke-width="2"/>
+<text x="24" y="618" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">$25k</text>
+<text x="256" y="618" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="end">$150k+</text>
+</g>
+<g id="Filter / Primary language">
+<text x="24" y="648" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280" font-weight="600">Primary language</text>
+<g id="Dropdown / Primary language">
+<rect x="24" y="658" width="232" height="36" fill="#FFFFFF" rx="6" stroke="#D9DCE1" stroke-width="1"/>
+<text x="36" y="680.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#1F2328">All languages</text>
+<path d="M236 674.0 L240 678.0 L244 674.0" stroke="#6B7280" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="Filter / Enrollment date">
+<text x="24" y="722" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280" font-weight="600">Enrollment date</text>
+<rect x="24" y="732" width="108" height="36" fill="#FFFFFF" rx="6" stroke="#D9DCE1" stroke-width="1"/>
+<text x="36" y="754.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#1F2328">1 Jan 2026</text>
+<rect x="148" y="732" width="108" height="36" fill="#FFFFFF" rx="6" stroke="#D9DCE1" stroke-width="1"/>
+<text x="160" y="754.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#1F2328">30 Jun 2026</text>
+<text x="140" y="754.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">–</text>
+</g>
+<text x="24" y="806" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#2F6FEB" font-weight="500">+ More filters</text>
+<line x1="0" y1="930" x2="280" y2="930" stroke="#ECEEF1" stroke-width="1"/>
+<text x="24" y="956" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">1,248 respondents match</text>
+<g id="Button / Apply filters">
+<rect x="24" y="968" width="232" height="40" fill="#2F6FEB" rx="6"/>
+<text x="140.0" y="992.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">Apply filters</text>
+</g>
+</g>
+<g id="Page header">
+<text x="304" y="112" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="24" fill="#1F2328" font-weight="700">Aggregate journey</text>
+<text x="304" y="138" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#6B7280">1,248 of 3,902 respondents · Enrolled 1 Jan – 30 Jun 2026</text>
+<text x="1210" y="115" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#6B7280" text-anchor="end">View as</text>
+<g id="View toggle">
+<rect x="1222" y="94" width="194" height="34" fill="#ECEEF1" rx="7"/>
+<rect x="1225" y="97" width="91" height="28" fill="#FFFFFF" rx="5" stroke="#D9DCE1" stroke-width="1"/>
+<text x="1270.5" y="115.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#1F2328" font-weight="600" text-anchor="middle">Charts</text>
+<text x="1367.5" y="115.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#6B7280" font-weight="500" text-anchor="middle">Tables</text>
+</g>
+</g>
+<g id="Active filter chips">
+<g id="Filter chip / Age: 25–44">
+<rect x="304" y="158" width="103.2" height="28" fill="#E6EEFD" rx="14"/>
+<text x="316" y="176" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#2F6FEB" font-weight="500">Age: 25–44</text>
+<path d="M389.7 168.5 L396.7 175.5 M396.7 168.5 L389.7 175.5" stroke="#2F6FEB" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Filter chip / Region: Northeast, South">
+<rect x="415.2" y="158" width="197.28000000000003" height="28" fill="#E6EEFD" rx="14"/>
+<text x="427.2" y="176" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#2F6FEB" font-weight="500">Region: Northeast, South</text>
+<path d="M594.98 168.5 L601.98 175.5 M601.98 168.5 L594.98 175.5" stroke="#2F6FEB" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Filter chip / Income: $25k – $150k+">
+<rect x="620.48" y="158" width="177.12" height="28" fill="#E6EEFD" rx="14"/>
+<text x="632.48" y="176" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#2F6FEB" font-weight="500">Income: $25k – $150k+</text>
+<path d="M780.1 168.5 L787.1 175.5 M787.1 168.5 L780.1 175.5" stroke="#2F6FEB" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="809.6" y="176" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#2F6FEB" font-weight="500">Clear all</text>
+</g>
+<g id="KPI tiles">
+<g id="KPI / Respondents started">
+<rect x="304" y="202" width="266" height="92" fill="#FFFFFF" rx="10" stroke="#D9DCE1" stroke-width="1"/>
+<text x="324" y="228" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280" font-weight="600">Respondents started</text>
+<text x="324" y="262" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="26" fill="#1F2328" font-weight="700">1,248</text>
+<text x="324" y="282" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">100% of filtered cohort</text>
+</g>
+<g id="KPI / Completed all steps">
+<rect x="586" y="202" width="266" height="92" fill="#FFFFFF" rx="10" stroke="#D9DCE1" stroke-width="1"/>
+<text x="606" y="228" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280" font-weight="600">Completed all steps</text>
+<text x="606" y="262" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="26" fill="#1F2328" font-weight="700">612</text>
+<text x="606" y="282" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">49% of starters</text>
+</g>
+<g id="KPI / Median time to finish">
+<rect x="868" y="202" width="266" height="92" fill="#FFFFFF" rx="10" stroke="#D9DCE1" stroke-width="1"/>
+<text x="888" y="228" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280" font-weight="600">Median time to finish</text>
+<text x="888" y="262" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="26" fill="#1F2328" font-weight="700">38 days</text>
+<text x="888" y="282" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">Target: 53 days (sum of deadlines)</text>
+</g>
+<g id="KPI / Steps completed on time">
+<rect x="1150" y="202" width="266" height="92" fill="#FFFFFF" rx="10" stroke="#D9DCE1" stroke-width="1"/>
+<text x="1170" y="228" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280" font-weight="600">Steps completed on time</text>
+<text x="1170" y="262" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="26" fill="#1F2328" font-weight="700">65%</text>
+<text x="1170" y="282" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">Across all completed steps</text>
+</g>
+</g>
+<g id="Journey by step (chart)">
+<rect x="304" y="312" width="1112" height="660" fill="#FFFFFF" rx="10" stroke="#D9DCE1" stroke-width="1" id="Journey by step / container"/>
+<text x="328" y="344" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#1F2328" font-weight="700">Journey by step</text>
+<text x="328" y="366" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#6B7280">How many respondents complete each step, and how long completed steps took compared with the step deadline</text>
+<g id="Legend">
+<line x1="896" y1="396" x2="920" y2="396" stroke="#5B6472" stroke-width="1.5"/>
+<line x1="896" y1="391" x2="896" y2="401" stroke="#5B6472" stroke-width="1.5"/>
+<line x1="920" y1="391" x2="920" y2="401" stroke="#5B6472" stroke-width="1.5"/>
+<text x="928" y="400" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">5th–95th percentile</text>
+<rect x="1052" y="388" width="24" height="16" fill="#C9CED6" rx="2" stroke="#5B6472" stroke-width="1"/>
+<text x="1084" y="400" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">Middle 50%</text>
+<line x1="1176" y1="387" x2="1176" y2="405" stroke="#1F2328" stroke-width="2.5"/>
+<text x="1186" y="400" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">Median</text>
+<line x1="1250" y1="386" x2="1250" y2="406" stroke="#D93F3F" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="1260" y="400" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">Deadline</text>
+</g>
+<g id="Column headers">
+<text x="328" y="426" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280" font-weight="600">Step &amp; deadline</text>
+<text x="540" y="426" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280" font-weight="600">Completed step (% of starters)</text>
+<text x="896" y="426" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280" font-weight="600">Days to complete step (completers only)</text>
+<text x="1392" y="426" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280" font-weight="600" text-anchor="end">On time</text>
+<line x1="328" y1="438" x2="1392" y2="438" stroke="#D9DCE1" stroke-width="1"/>
+</g>
+<g id="Gridlines">
+<line x1="896.0" y1="444" x2="896.0" y2="900" stroke="#ECEEF1" stroke-width="1"/>
+<line x1="962.6666666666666" y1="444" x2="962.6666666666666" y2="900" stroke="#ECEEF1" stroke-width="1"/>
+<line x1="1029.3333333333333" y1="444" x2="1029.3333333333333" y2="900" stroke="#ECEEF1" stroke-width="1"/>
+<line x1="1096.0" y1="444" x2="1096.0" y2="900" stroke="#ECEEF1" stroke-width="1"/>
+<line x1="1162.6666666666667" y1="444" x2="1162.6666666666667" y2="900" stroke="#ECEEF1" stroke-width="1"/>
+<line x1="1229.3333333333333" y1="444" x2="1229.3333333333333" y2="900" stroke="#ECEEF1" stroke-width="1"/>
+<line x1="1296.0" y1="444" x2="1296.0" y2="900" stroke="#ECEEF1" stroke-width="1"/>
+</g>
+<g id="Step 1 / Registration">
+<circle cx="340" cy="476.0" r="11" fill="#ECEEF1"/>
+<text x="340" y="480.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#1F2328" font-weight="600" text-anchor="middle">1</text>
+<text x="360" y="480.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#1F2328" font-weight="600">Registration</text>
+<text x="360" y="499.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">Deadline: 3 days</text>
+<g id="Completion bar">
+<rect x="540" y="464.0" width="260" height="16" fill="#ECEEF1" rx="3"/>
+<rect x="540" y="464.0" width="228.8" height="16" fill="#5B6472" rx="3"/>
+<text x="812" y="477.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#1F2328" font-weight="700">88%</text>
+<text x="850" y="477.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">1,098</text>
+<text x="540" y="499.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">▼ 150 dropped here (12% of those who reached it)</text>
+</g>
+<g id="Duration distribution">
+<line x1="902.6666666666666" y1="482.0" x2="909.3333333333334" y2="482.0" stroke="#5B6472" stroke-width="1.5"/>
+<line x1="949.3333333333334" y1="482.0" x2="1002.6666666666666" y2="482.0" stroke="#5B6472" stroke-width="1.5"/>
+<line x1="902.6666666666666" y1="476.0" x2="902.6666666666666" y2="488.0" stroke="#5B6472" stroke-width="1.5"/>
+<line x1="1002.6666666666666" y1="476.0" x2="1002.6666666666666" y2="488.0" stroke="#5B6472" stroke-width="1.5"/>
+<rect x="909.3333333333334" y="471.0" width="40.0" height="22" fill="#C9CED6" rx="2" stroke="#5B6472" stroke-width="1"/>
+<line x1="922.6666666666666" y1="471.0" x2="922.6666666666666" y2="493.0" stroke="#1F2328" stroke-width="2.5"/>
+<line x1="936.0" y1="460.0" x2="936.0" y2="504.0" stroke="#D93F3F" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="941.0" y="466.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#D93F3F" font-weight="600">3d</text>
+</g>
+<text x="1392" y="480.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#1F2328" font-weight="700" text-anchor="end">78%</text>
+<text x="1392" y="499.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="end">of completers</text>
+</g>
+<g id="Step 2 / Eligibility screening">
+<line x1="328" y1="520" x2="1392" y2="520" stroke="#ECEEF1" stroke-width="1"/>
+<circle cx="340" cy="552.0" r="11" fill="#ECEEF1"/>
+<text x="340" y="556.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#1F2328" font-weight="600" text-anchor="middle">2</text>
+<text x="360" y="556.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#1F2328" font-weight="600">Eligibility screening</text>
+<text x="360" y="575.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">Deadline: 7 days</text>
+<g id="Completion bar">
+<rect x="540" y="540.0" width="260" height="16" fill="#ECEEF1" rx="3"/>
+<rect x="540" y="540.0" width="196.0" height="16" fill="#5B6472" rx="3"/>
+<text x="812" y="553.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#1F2328" font-weight="700">75%</text>
+<text x="850" y="553.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">941</text>
+<text x="540" y="575.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">▼ 157 dropped here (14% of those who reached it)</text>
+</g>
+<g id="Duration distribution">
+<line x1="922.6666666666666" y1="558.0" x2="949.3333333333334" y2="558.0" stroke="#5B6472" stroke-width="1.5"/>
+<line x1="1016.0" y1="558.0" x2="1096.0" y2="558.0" stroke="#5B6472" stroke-width="1.5"/>
+<line x1="922.6666666666666" y1="552.0" x2="922.6666666666666" y2="564.0" stroke="#5B6472" stroke-width="1.5"/>
+<line x1="1096.0" y1="552.0" x2="1096.0" y2="564.0" stroke="#5B6472" stroke-width="1.5"/>
+<rect x="949.3333333333334" y="547.0" width="66.66666666666663" height="22" fill="#C9CED6" rx="2" stroke="#5B6472" stroke-width="1"/>
+<line x1="976.0" y1="547.0" x2="976.0" y2="569.0" stroke="#1F2328" stroke-width="2.5"/>
+<line x1="989.3333333333334" y1="536.0" x2="989.3333333333334" y2="580.0" stroke="#D93F3F" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="994.3333333333334" y="542.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#D93F3F" font-weight="600">7d</text>
+</g>
+<text x="1392" y="556.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#1F2328" font-weight="700" text-anchor="end">71%</text>
+<text x="1392" y="575.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="end">of completers</text>
+</g>
+<g id="Step 3 / Document upload">
+<line x1="328" y1="596" x2="1392" y2="596" stroke="#ECEEF1" stroke-width="1"/>
+<circle cx="340" cy="628.0" r="11" fill="#ECEEF1"/>
+<text x="340" y="632.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#1F2328" font-weight="600" text-anchor="middle">3</text>
+<text x="360" y="632.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#1F2328" font-weight="600">Document upload</text>
+<text x="360" y="651.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">Deadline: 14 days</text>
+<g id="Completion bar">
+<rect x="540" y="616.0" width="260" height="16" fill="#ECEEF1" rx="3"/>
+<rect x="540" y="616.0" width="170.8" height="16" fill="#5B6472" rx="3"/>
+<text x="812" y="629.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#1F2328" font-weight="700">66%</text>
+<text x="850" y="629.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">820</text>
+<text x="540" y="651.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">▼ 121 dropped here (13% of those who reached it)</text>
+</g>
+<g id="Duration distribution">
+<line x1="949.3333333333334" y1="634.0" x2="1029.3333333333333" y2="634.0" stroke="#5B6472" stroke-width="1.5"/>
+<line x1="1149.3333333333333" y1="634.0" x2="1256.0" y2="634.0" stroke="#5B6472" stroke-width="1.5"/>
+<line x1="949.3333333333334" y1="628.0" x2="949.3333333333334" y2="640.0" stroke="#5B6472" stroke-width="1.5"/>
+<line x1="1256.0" y1="628.0" x2="1256.0" y2="640.0" stroke="#5B6472" stroke-width="1.5"/>
+<rect x="1029.3333333333333" y="623.0" width="120.0" height="22" fill="#C9CED6" rx="2" stroke="#5B6472" stroke-width="1"/>
+<line x1="1096.0" y1="623.0" x2="1096.0" y2="645.0" stroke="#1F2328" stroke-width="2.5"/>
+<line x1="1082.6666666666667" y1="612.0" x2="1082.6666666666667" y2="656.0" stroke="#D93F3F" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="1087.6666666666667" y="618.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#D93F3F" font-weight="600">14d</text>
+</g>
+<text x="1392" y="632.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#D93F3F" font-weight="700" text-anchor="end">44%</text>
+<text x="1392" y="651.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="end">of completers</text>
+</g>
+<g id="Step 4 / Interview">
+<line x1="328" y1="672" x2="1392" y2="672" stroke="#ECEEF1" stroke-width="1"/>
+<circle cx="340" cy="704.0" r="11" fill="#ECEEF1"/>
+<text x="340" y="708.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#1F2328" font-weight="600" text-anchor="middle">4</text>
+<text x="360" y="708.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#1F2328" font-weight="600">Interview</text>
+<text x="360" y="727.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">Deadline: 10 days</text>
+<g id="Completion bar">
+<rect x="540" y="692.0" width="260" height="16" fill="#ECEEF1" rx="3"/>
+<rect x="540" y="692.0" width="146.2" height="16" fill="#5B6472" rx="3"/>
+<text x="812" y="705.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#1F2328" font-weight="700">56%</text>
+<text x="850" y="705.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">702</text>
+<text x="540" y="727.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">▼ 118 dropped here (14% of those who reached it)</text>
+</g>
+<g id="Duration distribution">
+<line x1="922.6666666666666" y1="710.0" x2="962.6666666666666" y2="710.0" stroke="#5B6472" stroke-width="1.5"/>
+<line x1="1056.0" y1="710.0" x2="1149.3333333333333" y2="710.0" stroke="#5B6472" stroke-width="1.5"/>
+<line x1="922.6666666666666" y1="704.0" x2="922.6666666666666" y2="716.0" stroke="#5B6472" stroke-width="1.5"/>
+<line x1="1149.3333333333333" y1="704.0" x2="1149.3333333333333" y2="716.0" stroke="#5B6472" stroke-width="1.5"/>
+<rect x="962.6666666666666" y="699.0" width="93.33333333333337" height="22" fill="#C9CED6" rx="2" stroke="#5B6472" stroke-width="1"/>
+<line x1="1002.6666666666666" y1="699.0" x2="1002.6666666666666" y2="721.0" stroke="#1F2328" stroke-width="2.5"/>
+<line x1="1029.3333333333333" y1="688.0" x2="1029.3333333333333" y2="732.0" stroke="#D93F3F" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="1034.3333333333333" y="694.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#D93F3F" font-weight="600">10d</text>
+</g>
+<text x="1392" y="708.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#1F2328" font-weight="700" text-anchor="end">69%</text>
+<text x="1392" y="727.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="end">of completers</text>
+</g>
+<g id="Step 5 / Case review">
+<line x1="328" y1="748" x2="1392" y2="748" stroke="#ECEEF1" stroke-width="1"/>
+<circle cx="340" cy="780.0" r="11" fill="#ECEEF1"/>
+<text x="340" y="784.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#1F2328" font-weight="600" text-anchor="middle">5</text>
+<text x="360" y="784.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#1F2328" font-weight="600">Case review</text>
+<text x="360" y="803.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">Deadline: 14 days</text>
+<g id="Completion bar">
+<rect x="540" y="768.0" width="260" height="16" fill="#ECEEF1" rx="3"/>
+<rect x="540" y="768.0" width="133.3" height="16" fill="#5B6472" rx="3"/>
+<text x="812" y="781.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#1F2328" font-weight="700">51%</text>
+<text x="850" y="781.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">640</text>
+<text x="540" y="803.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">▼ 62 dropped here (9% of those who reached it)</text>
+</g>
+<g id="Duration distribution">
+<line x1="962.6666666666666" y1="786.0" x2="1016.0" y2="786.0" stroke="#5B6472" stroke-width="1.5"/>
+<line x1="1122.6666666666667" y1="786.0" x2="1216.0" y2="786.0" stroke="#5B6472" stroke-width="1.5"/>
+<line x1="962.6666666666666" y1="780.0" x2="962.6666666666666" y2="792.0" stroke="#5B6472" stroke-width="1.5"/>
+<line x1="1216.0" y1="780.0" x2="1216.0" y2="792.0" stroke="#5B6472" stroke-width="1.5"/>
+<rect x="1016.0" y="775.0" width="106.66666666666674" height="22" fill="#C9CED6" rx="2" stroke="#5B6472" stroke-width="1"/>
+<line x1="1056.0" y1="775.0" x2="1056.0" y2="797.0" stroke="#1F2328" stroke-width="2.5"/>
+<line x1="1082.6666666666667" y1="764.0" x2="1082.6666666666667" y2="808.0" stroke="#D93F3F" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="1087.6666666666667" y="770.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#D93F3F" font-weight="600">14d</text>
+</g>
+<text x="1392" y="784.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#1F2328" font-weight="700" text-anchor="end">72%</text>
+<text x="1392" y="803.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="end">of completers</text>
+</g>
+<g id="Step 6 / Final decision">
+<line x1="328" y1="824" x2="1392" y2="824" stroke="#ECEEF1" stroke-width="1"/>
+<circle cx="340" cy="856.0" r="11" fill="#ECEEF1"/>
+<text x="340" y="860.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#1F2328" font-weight="600" text-anchor="middle">6</text>
+<text x="360" y="860.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#1F2328" font-weight="600">Final decision</text>
+<text x="360" y="879.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">Deadline: 5 days</text>
+<g id="Completion bar">
+<rect x="540" y="844.0" width="260" height="16" fill="#ECEEF1" rx="3"/>
+<rect x="540" y="844.0" width="127.5" height="16" fill="#5B6472" rx="3"/>
+<text x="812" y="857.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#1F2328" font-weight="700">49%</text>
+<text x="850" y="857.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">612</text>
+<text x="540" y="879.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">▼ 28 dropped here (4% of those who reached it)</text>
+</g>
+<g id="Duration distribution">
+<line x1="909.3333333333334" y1="862.0" x2="922.6666666666666" y2="862.0" stroke="#5B6472" stroke-width="1.5"/>
+<line x1="976.0" y1="862.0" x2="1042.6666666666667" y2="862.0" stroke="#5B6472" stroke-width="1.5"/>
+<line x1="909.3333333333334" y1="856.0" x2="909.3333333333334" y2="868.0" stroke="#5B6472" stroke-width="1.5"/>
+<line x1="1042.6666666666667" y1="856.0" x2="1042.6666666666667" y2="868.0" stroke="#5B6472" stroke-width="1.5"/>
+<rect x="922.6666666666666" y="851.0" width="53.33333333333337" height="22" fill="#C9CED6" rx="2" stroke="#5B6472" stroke-width="1"/>
+<line x1="949.3333333333334" y1="851.0" x2="949.3333333333334" y2="873.0" stroke="#1F2328" stroke-width="2.5"/>
+<line x1="962.6666666666666" y1="840.0" x2="962.6666666666666" y2="884.0" stroke="#D93F3F" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="967.6666666666666" y="846.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#D93F3F" font-weight="600">5d</text>
+</g>
+<text x="1392" y="860.5" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#1F2328" font-weight="700" text-anchor="end">58%</text>
+<text x="1392" y="879.0" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280" text-anchor="end">of completers</text>
+</g>
+<g id="Duration axis">
+<line x1="896" y1="900" x2="1296" y2="900" stroke="#6B7280" stroke-width="1"/>
+<line x1="896.0" y1="900" x2="896.0" y2="905" stroke="#6B7280" stroke-width="1"/>
+<text x="896.0" y="920" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle">0</text>
+<line x1="962.6666666666666" y1="900" x2="962.6666666666666" y2="905" stroke="#6B7280" stroke-width="1"/>
+<text x="962.6666666666666" y="920" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle">5</text>
+<line x1="1029.3333333333333" y1="900" x2="1029.3333333333333" y2="905" stroke="#6B7280" stroke-width="1"/>
+<text x="1029.3333333333333" y="920" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle">10</text>
+<line x1="1096.0" y1="900" x2="1096.0" y2="905" stroke="#6B7280" stroke-width="1"/>
+<text x="1096.0" y="920" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle">15</text>
+<line x1="1162.6666666666667" y1="900" x2="1162.6666666666667" y2="905" stroke="#6B7280" stroke-width="1"/>
+<text x="1162.6666666666667" y="920" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle">20</text>
+<line x1="1229.3333333333333" y1="900" x2="1229.3333333333333" y2="905" stroke="#6B7280" stroke-width="1"/>
+<text x="1229.3333333333333" y="920" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle">25</text>
+<line x1="1296.0" y1="900" x2="1296.0" y2="905" stroke="#6B7280" stroke-width="1"/>
+<text x="1296.0" y="920" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6B7280" text-anchor="middle">30</text>
+<text x="1308" y="920" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6B7280">days</text>
+</g>
+<text x="328" y="950" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6B7280">Hover a row for exact values. Click a step to see the respondents who dropped out there in the Individual view.</text>
+</g>
+</svg>

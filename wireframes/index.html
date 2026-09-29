@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Journey Dashboard Wireframes</title>
+<style>
+  :root { --bg: #eceef1; --fg: #1f2328; --muted: #6b7280; --card: #fff; --border: #d9dce1; }
+  body { margin: 0; background: var(--bg); color: var(--fg); font: 14px/1.5 Inter, "Helvetica Neue", Arial, sans-serif; }
+  main { max-width: 1480px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { font-size: 22px; margin: 0 0 4px; }
+  p.lead { color: var(--muted); margin: 0 0 32px; }
+  section { margin-bottom: 48px; }
+  h2 { font-size: 16px; margin: 0 0 4px; }
+  section p { color: var(--muted); margin: 0 0 12px; max-width: 900px; }
+  img { width: 100%; height: auto; display: block; background: var(--card); border: 1px solid var(--border); border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,.06); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Respondent Journey Dashboard: wireframes</h1>
+  <p class="lead">Two screens (aggregate and individual), each shown in its chart and table state. Drag the SVGs in <code>svg/</code> into Figma to edit them.</p>
+
+  <section>
+    <h2>1a · Aggregate journey (charts)</h2>
+    <p>Demographic filters on the left. Each step row shows the completion funnel, a box plot of time to complete, the step deadline as a red dashed line, and the share completed on time.</p>
+    <img src="svg/01-aggregate-charts.svg" alt="Aggregate journey wireframe, chart view">
+  </section>
+  <section>
+    <h2>1b · Aggregate journey (tables)</h2>
+    <p>The same data shown as a completion table and a duration-percentile table after switching the toggle to "Tables".</p>
+    <img src="svg/02-aggregate-tables.svg" alt="Aggregate journey wireframe, table view">
+  </section>
+  <section>
+    <h2>2a · Individual respondent (chart)</h2>
+    <p>Filter and pick a respondent on the left. The detail panel shows all demographics and a timeline of each step against its deadline.</p>
+    <img src="svg/03-individual-chart.svg" alt="Individual respondent wireframe, chart view">
+  </section>
+  <section>
+    <h2>2b · Individual respondent (table)</h2>
+    <p>The journey card switched to the table state.</p>
+    <img src="svg/04-individual-table.svg" alt="Individual respondent wireframe, table view">
+  </section>
+</main>
+</body>
+</html>
